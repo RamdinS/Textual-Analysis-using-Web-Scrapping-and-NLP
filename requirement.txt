@@ -1,0 +1,11 @@
+bs4
+pandas
+numpy
+requests
+trafilatura
+nltk
+contractions
+Unidecode
+autocorrect
+textstat
+regex
